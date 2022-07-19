@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BartlomiejMetrak
-- 👀 I’m interested in python programming and stock market
+- 👀 I’m interested in python programming and stock market investing
 - 🌱 I’m currently learning data visualization and analysis in python and Power BI
-- 💞️ I’m looking to collaborate on gathering data for stock market analysis
+- 💞️ I’m looking to collaborate on projects related to stock market and data aggregation
 - 📫 How to reach me metrak.bartlomiej@gmail.com
 
 <!---
